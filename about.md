@@ -4,9 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Nothing Much.</p>
-
-<p>Nothing Much.</p>
+<p>I am a medical student from Southern Medical University, who is interested in bioinformatics.</p>
 
 <h2>Skills</h2>
 
